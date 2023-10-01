@@ -1,0 +1,648 @@
+Age recode with <1 year olds,Sex,"Derived AJCC T, 6th ed (2004-2015)","Derived AJCC N, 6th ed (2004-2015)","Derived AJCC M, 6th ed (2004-2015)",RX Summ--Surg Prim Site (1998+),CS tumor size (2004-2015),Regional nodes positive (1988+),Grade (thru 2017),Regional nodes examined (1988+),ICD-O-3 Hist/behav,End Calc Vital Status (Adjusted),Number of Intervals (Calculated)
+60-64 years,Female,T3,N3,M1a,50,59,17,Poorly differentiated; Grade III,55,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,27
+75-79 years,Male,T3,N3,M1a,53,35,14,Moderately differentiated; Grade II,19,"8070/3: Squamous cell carcinoma, NOS",Dead,11
+60-64 years,Male,T3,N3,M0,53,3,14,Moderately differentiated; Grade II,17,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+65-69 years,Male,T3,N3,M0,40,45,9,Poorly differentiated; Grade III,14,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+65-69 years,Male,T1,N3,M0,40,25,9,Poorly differentiated; Grade III,19,"8070/3: Squamous cell carcinoma, NOS",Dead,37
+85+ years,Female,T3,N3,M0,50,48,8,Moderately differentiated; Grade II,31,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+75-79 years,Male,T3,N3,M0,30,20,8,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Dead,22
+75-79 years,Male,T3,N3,M1a,53,100,7,Poorly differentiated; Grade III,14,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+85+ years,Female,T2,N3,M1a,53,65,7,Moderately differentiated; Grade II,20,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,14
+60-64 years,Male,T3,N3,M1a,30,52,7,Poorly differentiated; Grade III,21,"8070/3: Squamous cell carcinoma, NOS",Dead,38
+60-64 years,Male,T3,N3,M0,50,50,7,Moderately differentiated; Grade II,27,"8070/3: Squamous cell carcinoma, NOS",Dead,30
+75-79 years,Female,T3,N2,M0,40,60,6,Poorly differentiated; Grade III,16,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+80-84 years,Male,T3,N2,M1b,52,60,6,Poorly differentiated; Grade III,20,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+65-69 years,Male,T3,N2,M0,53,52,6,Poorly differentiated; Grade III,23,"8070/3: Squamous cell carcinoma, NOS",Dead,3
+75-79 years,Male,T3,N2,M0,50,50,6,Poorly differentiated; Grade III,37,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,56
+65-69 years,Male,T4,N2,M0,53,42,6,Poorly differentiated; Grade III,22,"8070/3: Squamous cell carcinoma, NOS",Dead,3
+75-79 years,Male,T4,N2,M0,51,37,6,Poorly differentiated; Grade III,80,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+75-79 years,Female,T3,N2,M0,53,30,6,Poorly differentiated; Grade III,11,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+65-69 years,Male,T3,N2,M0,30,28,6,Moderately differentiated; Grade II,29,"8070/3: Squamous cell carcinoma, NOS",Dead,12
+75-79 years,Male,T3,N2,M0,53,25,6,Poorly differentiated; Grade III,11,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+65-69 years,Male,T3,N2,M0,53,85,5,Poorly differentiated; Grade III,15,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+75-79 years,Male,T3,N2,M0,54,55,5,Poorly differentiated; Grade III,9,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+70-74 years,Male,T1,N2,M1b,53,35,5,Poorly differentiated; Grade III,33,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T3,N2,M0,53,30,5,Moderately differentiated; Grade II,9,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+70-74 years,Female,T2,N2,M0,53,30,5,Poorly differentiated; Grade III,11,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+75-79 years,Male,T3,N2,M0,30,29,5,Poorly differentiated; Grade III,13,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+75-79 years,Female,T3,N2,M0,40,21,5,Moderately differentiated; Grade II,12,"8070/3: Squamous cell carcinoma, NOS",Dead,4
+65-69 years,Male,T3,N2,M0,52,90,4,Moderately differentiated; Grade II,27,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,4
+60-64 years,Male,T3,N2,M0,50,90,4,Poorly differentiated; Grade III,34,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+60-64 years,Male,T3,N2,M0,40,60,4,Moderately differentiated; Grade II,14,"8070/3: Squamous cell carcinoma, NOS",Dead,1
+65-69 years,Female,T3,N2,M1a,53,55,4,Poorly differentiated; Grade III,15,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+65-69 years,Male,T3,N2,M0,80,47,4,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Dead,16
+65-69 years,Female,T3,N2,M0,53,41,4,Moderately differentiated; Grade II,22,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,10
+65-69 years,Female,T3,N2,M0,40,40,4,Moderately differentiated; Grade II,20,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,3
+70-74 years,Female,T3,N2,M0,53,37,4,Moderately differentiated; Grade II,10,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+70-74 years,Female,T3,N2,M0,50,35,4,Moderately differentiated; Grade II,17,"8070/3: Squamous cell carcinoma, NOS",Dead,12
+75-79 years,Female,T3,N2,M0,52,35,4,Moderately differentiated; Grade II,15,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+60-64 years,Male,T3,N2,M0,53,30,4,Poorly differentiated; Grade III,6,"8070/3: Squamous cell carcinoma, NOS",Dead,21
+60-64 years,Female,T3,N2,M0,52,30,4,Moderately differentiated; Grade II,16,"8070/3: Squamous cell carcinoma, NOS",Untraced,45
+70-74 years,Female,T3,N2,M0,53,26,4,Moderately differentiated; Grade II,14,"8070/3: Squamous cell carcinoma, NOS",Untraced,56
+70-74 years,Female,T1,N2,M0,30,26,4,Well differentiated; Grade I,11,"8070/3: Squamous cell carcinoma, NOS",Dead,31
+65-69 years,Male,T3,N2,M0,52,23,4,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N2,M0,52,80,3,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T4,N2,M0,30,80,3,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+80-84 years,Female,T3,N2,M0,53,55,3,Moderately differentiated; Grade II,22,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+60-64 years,Female,T3,N2,M0,40,45,3,Well differentiated; Grade I,36,"8070/3: Squamous cell carcinoma, NOS",Dead,31
+80-84 years,Male,T3,N2,M1a,52,45,3,Poorly differentiated; Grade III,7,"8070/3: Squamous cell carcinoma, NOS",Dead,25
+85+ years,Female,T3,N2,M0,40,45,3,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Dead,3
+65-69 years,Male,T2,N2,M0,50,40,3,Poorly differentiated; Grade III,18,"8074/3: Squamous cell carcinoma, spindle cell",Dead,19
+75-79 years,Male,T3,N2,M0,40,35,3,Poorly differentiated; Grade III,3,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+60-64 years,Male,T3,N2,M0,30,34,3,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Dead,31
+80-84 years,Male,T3,N2,M0,52,32,3,Moderately differentiated; Grade II,12,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+80-84 years,Male,T3,N2,M0,53,30,3,Poorly differentiated; Grade III,7,"8070/3: Squamous cell carcinoma, NOS",Dead,8
+75-79 years,Male,T2,N2,M0,52,24,3,Moderately differentiated; Grade II,15,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T1,N1,M0,40,129,2,Well differentiated; Grade I,13,"8070/3: Squamous cell carcinoma, NOS",Dead,28
+60-64 years,Male,T3,N1,M1a,30,100,2,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Dead,22
+75-79 years,Male,T3,N1,M1b,50,90,2,Poorly differentiated; Grade III,5,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+65-69 years,Male,T4,N1,M0,53,90,2,Poorly differentiated; Grade III,8,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T3,N1,M0,52,85,2,Poorly differentiated; Grade III,9,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+60-64 years,Male,T3,N1,M0,53,82,2,Moderately differentiated; Grade II,26,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+70-74 years,Female,T3,N1,M0,52,80,2,Moderately differentiated; Grade II,20,"8070/3: Squamous cell carcinoma, NOS",Dead,24
+80-84 years,Female,T2,N1,M0,30,75,2,Moderately differentiated; Grade II,5,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,6
+65-69 years,Female,T2,N1,M0,53,72,2,Well differentiated; Grade I,46,"8070/3: Squamous cell carcinoma, NOS",Dead,30
+60-64 years,Male,T3,N1,M0,53,70,2,Moderately differentiated; Grade II,20,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,13
+65-69 years,Male,T3,N1,M0,52,70,2,Moderately differentiated; Grade II,11,"8070/3: Squamous cell carcinoma, NOS",Dead,11
+70-74 years,Male,T3,N1,M0,52,65,2,Poorly differentiated; Grade III,21,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+65-69 years,Male,T3,N1,M1a,53,60,2,Poorly differentiated; Grade III,8,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+70-74 years,Male,T3,N1,M0,40,60,2,Moderately differentiated; Grade II,9,"8070/3: Squamous cell carcinoma, NOS",Dead,19
+75-79 years,Female,T3,N1,M1a,53,60,2,Poorly differentiated; Grade III,5,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+65-69 years,Male,T4,N1,M0,40,60,2,Poorly differentiated; Grade III,5,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+70-74 years,Male,T3,N1,M0,53,60,2,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+70-74 years,Male,T3,N1,M0,52,55,2,Poorly differentiated; Grade III,16,"8070/3: Squamous cell carcinoma, NOS",Dead,8
+60-64 years,Female,T3,N1,M0,53,50,2,Poorly differentiated; Grade III,30,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,22
+70-74 years,Female,T3,N1,M1a,53,50,2,Poorly differentiated; Grade III,2,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T3,N1,M0,53,40,2,Poorly differentiated; Grade III,13,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T4,N1,M0,53,40,2,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Dead,11
+60-64 years,Male,T3,N1,M0,40,40,2,Moderately differentiated; Grade II,29,"8070/3: Squamous cell carcinoma, NOS",Dead,32
+60-64 years,Male,T2,N1,M1a,40,40,2,Poorly differentiated; Grade III,16,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+70-74 years,Male,T3,N1,M0,40,40,2,Poorly differentiated; Grade III,24,"8070/3: Squamous cell carcinoma, NOS",Dead,16
+60-64 years,Male,T3,N1,M0,40,40,2,Moderately differentiated; Grade II,2,"8070/3: Squamous cell carcinoma, NOS",Dead,19
+60-64 years,Male,T3,N1,M0,40,40,2,Moderately differentiated; Grade II,32,"8070/3: Squamous cell carcinoma, NOS",Dead,31
+65-69 years,Male,T3,N1,M0,53,40,2,Poorly differentiated; Grade III,9,"8070/3: Squamous cell carcinoma, NOS",Dead,16
+70-74 years,Male,T3,N1,M0,53,36,2,Poorly differentiated; Grade III,14,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T4,N1,M0,30,35,2,Moderately differentiated; Grade II,5,"8070/3: Squamous cell carcinoma, NOS",Dead,3
+70-74 years,Female,T3,N1,M0,50,34,2,Moderately differentiated; Grade II,3,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Dead,28
+70-74 years,Male,T3,N1,M0,52,33,2,Moderately differentiated; Grade II,17,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T3,N1,M0,40,33,2,Poorly differentiated; Grade III,12,"8070/3: Squamous cell carcinoma, NOS",Dead,32
+65-69 years,Female,T1,N1,M0,30,30,2,Moderately differentiated; Grade II,16,"8070/3: Squamous cell carcinoma, NOS",Dead,28
+65-69 years,Male,T4,N1,M0,53,30,2,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Male,T3,N1,M0,50,30,2,Poorly differentiated; Grade III,43,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,26
+65-69 years,Male,T4,N1,M0,53,30,2,Moderately differentiated; Grade II,20,"8070/3: Squamous cell carcinoma, NOS",Dead,20
+65-69 years,Male,T3,N1,M0,30,25,2,Moderately differentiated; Grade II,5,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,13
+60-64 years,Male,T3,N1,M0,50,25,2,Moderately differentiated; Grade II,5,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Dead,24
+70-74 years,Female,T2,N1,M0,53,24,2,Moderately differentiated; Grade II,26,"8070/3: Squamous cell carcinoma, NOS",Dead,25
+65-69 years,Male,T1,N1,M0,53,20,2,Moderately differentiated; Grade II,37,"8070/3: Squamous cell carcinoma, NOS",Dead,36
+70-74 years,Female,T3,N1,M0,30,20,2,Poorly differentiated; Grade III,13,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+65-69 years,Female,T2,N1,M0,52,17,2,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T3,N1,M0,40,15,2,Poorly differentiated; Grade III,6,"8070/3: Squamous cell carcinoma, NOS",Dead,13
+75-79 years,Female,T3,N1,M1b,52,110,1,Poorly differentiated; Grade III,15,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T3,N1,M0,30,110,1,Moderately differentiated; Grade II,25,"8070/3: Squamous cell carcinoma, NOS",Dead,26
+65-69 years,Female,T4,N1,M1b,53,107,1,Well differentiated; Grade I,17,"8070/3: Squamous cell carcinoma, NOS",Dead,4
+60-64 years,Male,T3,N1,M0,52,102,1,Moderately differentiated; Grade II,17,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+60-64 years,Male,T3,N1,M0,30,100,1,Moderately differentiated; Grade II,15,"8070/3: Squamous cell carcinoma, NOS",Dead,17
+60-64 years,Male,T3,N1,M0,53,98,1,Moderately differentiated; Grade II,20,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T1,N1,M1a,52,90,1,Poorly differentiated; Grade III,18,"8070/3: Squamous cell carcinoma, NOS",Dead,26
+70-74 years,Male,T2,N1,M0,53,90,1,Moderately differentiated; Grade II,6,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+60-64 years,Male,T3,N1,M0,30,85,1,Poorly differentiated; Grade III,16,"8070/3: Squamous cell carcinoma, NOS",Dead,11
+65-69 years,Male,T2,N1,M0,53,80,1,Poorly differentiated; Grade III,18,"8070/3: Squamous cell carcinoma, NOS",Dead,12
+65-69 years,Male,T3,N1,M0,50,75,1,Moderately differentiated; Grade II,31,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+60-64 years,Male,T4,N1,M0,53,74,1,Poorly differentiated; Grade III,18,"8070/3: Squamous cell carcinoma, NOS",Dead,1
+70-74 years,Male,T3,N1,M0,52,73,1,Moderately differentiated; Grade II,15,"8073/3: Squamous cell carcinoma, small cell, nonkeratinizing",Dead,8
+75-79 years,Male,T3,N1,M0,30,70,1,Poorly differentiated; Grade III,21,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+65-69 years,Female,T3,N1,M0,53,70,1,Moderately differentiated; Grade II,3,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Male,T3,N1,M0,53,70,1,Moderately differentiated; Grade II,41,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+65-69 years,Male,T4,N1,M0,53,70,1,Poorly differentiated; Grade III,23,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+65-69 years,Female,T1,N1,M0,53,60,1,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+70-74 years,Male,T3,N1,M0,53,60,1,Moderately differentiated; Grade II,16,"8070/3: Squamous cell carcinoma, NOS",Dead,54
+75-79 years,Male,T4,N1,M0,50,60,1,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Dead,4
+75-79 years,Male,T3,N1,M0,50,60,1,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Dead,42
+70-74 years,Female,T4,N1,M0,40,60,1,Poorly differentiated; Grade III,10,"8070/3: Squamous cell carcinoma, NOS",Dead,31
+70-74 years,Male,T3,N1,M0,50,60,1,Poorly differentiated; Grade III,2,"8070/3: Squamous cell carcinoma, NOS",Dead,8
+60-64 years,Female,T3,N1,M0,52,60,1,Moderately differentiated; Grade II,10,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+70-74 years,Male,T3,N1,M0,40,55,1,Poorly differentiated; Grade III,7,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,8
+80-84 years,Male,T3,N1,M0,53,55,1,Moderately differentiated; Grade II,12,"8070/3: Squamous cell carcinoma, NOS",Dead,3
+80-84 years,Male,T3,N1,M0,53,55,1,Poorly differentiated; Grade III,15,"8070/3: Squamous cell carcinoma, NOS",Dead,33
+80-84 years,Female,T3,N1,M0,53,55,1,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Dead,1
+65-69 years,Male,T3,N1,M0,53,54,1,Moderately differentiated; Grade II,14,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+75-79 years,Male,T4,N1,M1b,52,54,1,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+65-69 years,Female,T3,N1,M0,50,54,1,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+60-64 years,Female,T3,N1,M0,30,52,1,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Dead,12
+60-64 years,Female,T3,N1,M0,50,50,1,Moderately differentiated; Grade II,22,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Female,T4,N1,M0,53,50,1,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+80-84 years,Female,T1,N1,M0,53,50,1,Poorly differentiated; Grade III,20,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N1,M0,53,50,1,Poorly differentiated; Grade III,29,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Untraced,43
+60-64 years,Male,T3,N1,M0,53,50,1,Moderately differentiated; Grade II,11,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Dead,7
+65-69 years,Female,T1,N1,M0,50,50,1,Poorly differentiated; Grade III,44,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Untraced,49
+60-64 years,Male,T2,N1,M0,53,50,1,Moderately differentiated; Grade II,13,"8070/3: Squamous cell carcinoma, NOS",Untraced,48
+70-74 years,Male,T2,N1,M0,40,50,1,Poorly differentiated; Grade III,1,"8070/3: Squamous cell carcinoma, NOS",Dead,1
+70-74 years,Male,T3,N1,M0,30,50,1,Poorly differentiated; Grade III,9,"8070/3: Squamous cell carcinoma, NOS",Dead,11
+65-69 years,Male,T2,N1,M0,40,50,1,Poorly differentiated; Grade III,18,"8070/3: Squamous cell carcinoma, NOS",Dead,46
+60-64 years,Female,T3,N1,M0,53,50,1,Moderately differentiated; Grade II,23,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+60-64 years,Male,T1,N1,M0,40,48,1,Poorly differentiated; Grade III,8,"8070/3: Squamous cell carcinoma, NOS",Dead,24
+65-69 years,Male,T2,N1,M0,52,47,1,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Untraced,41
+65-69 years,Male,T3,N1,M0,52,45,1,Poorly differentiated; Grade III,38,"8070/3: Squamous cell carcinoma, NOS",Dead,41
+80-84 years,Male,T3,N1,M0,52,45,1,Moderately differentiated; Grade II,24,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N1,M0,53,44,1,Poorly differentiated; Grade III,13,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,29
+80-84 years,Female,T3,N1,M0,30,42,1,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Dead,12
+65-69 years,Female,T4,N1,M0,40,41,1,Moderately differentiated; Grade II,5,"8070/3: Squamous cell carcinoma, NOS",Dead,8
+65-69 years,Female,T3,N1,M0,50,40,1,Poorly differentiated; Grade III,19,"8070/3: Squamous cell carcinoma, NOS",Dead,29
+65-69 years,Female,T3,N1,M0,50,40,1,Poorly differentiated; Grade III,39,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Dead,55
+60-64 years,Female,T3,N1,M0,53,40,1,Well differentiated; Grade I,5,"8070/3: Squamous cell carcinoma, NOS",Dead,21
+80-84 years,Female,T3,N1,M1a,53,40,1,Moderately differentiated; Grade II,24,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Male,T2,N1,M0,54,40,1,Poorly differentiated; Grade III,32,"8070/3: Squamous cell carcinoma, NOS",Dead,4
+80-84 years,Female,T1,N1,M0,40,40,1,Poorly differentiated; Grade III,3,"8070/3: Squamous cell carcinoma, NOS",Dead,58
+60-64 years,Male,T3,N1,M0,53,40,1,Moderately differentiated; Grade II,13,"8070/3: Squamous cell carcinoma, NOS",Dead,13
+70-74 years,Female,T3,N1,M0,53,37,1,Moderately differentiated; Grade II,23,"8070/3: Squamous cell carcinoma, NOS",Untraced,54
+60-64 years,Male,T3,N1,M0,30,36,1,Moderately differentiated; Grade II,1,"8070/3: Squamous cell carcinoma, NOS",Dead,22
+85+ years,Male,T3,N1,M0,53,35,1,Moderately differentiated; Grade II,18,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Untraced,5
+65-69 years,Female,T2,N1,M0,30,35,1,Moderately differentiated; Grade II,31,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Male,T2,N1,M0,53,35,1,Poorly differentiated; Grade III,9,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+65-69 years,Female,T4,N1,M0,53,35,1,Poorly differentiated; Grade III,15,"8070/3: Squamous cell carcinoma, NOS",Dead,31
+65-69 years,Female,T1,N1,M0,52,32,1,Moderately differentiated; Grade II,29,"8070/3: Squamous cell carcinoma, NOS",Dead,4
+65-69 years,Male,T2,N1,M0,40,32,1,Poorly differentiated; Grade III,41,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+80-84 years,Male,T2,N1,M1b,40,32,1,Moderately differentiated; Grade II,1,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+65-69 years,Female,T3,N1,M0,30,32,1,Poorly differentiated; Grade III,8,"8070/3: Squamous cell carcinoma, NOS",Untraced,49
+65-69 years,Male,T3,N1,M0,53,30,1,Poorly differentiated; Grade III,18,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T1,N1,M0,30,30,1,Moderately differentiated; Grade II,23,"8070/3: Squamous cell carcinoma, NOS",Dead,28
+65-69 years,Male,T4,N1,M0,53,30,1,Poorly differentiated; Grade III,12,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+60-64 years,Male,T3,N1,M0,53,30,1,Poorly differentiated; Grade III,9,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T1,N1,M0,40,30,1,Poorly differentiated; Grade III,8,"8070/3: Squamous cell carcinoma, NOS",Dead,25
+65-69 years,Male,T2,N1,M0,53,30,1,Moderately differentiated; Grade II,6,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,22
+60-64 years,Female,T3,N1,M0,52,28,1,Moderately differentiated; Grade II,16,"8070/3: Squamous cell carcinoma, NOS",Dead,23
+60-64 years,Male,T3,N1,M0,52,28,1,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+75-79 years,Male,T3,N1,M0,53,28,1,Poorly differentiated; Grade III,2,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+60-64 years,Male,T1,N1,M1b,30,27,1,Poorly differentiated; Grade III,8,"8070/3: Squamous cell carcinoma, NOS",Dead,8
+60-64 years,Female,T1,N1,M0,40,27,1,Poorly differentiated; Grade III,19,"8070/3: Squamous cell carcinoma, NOS",Dead,17
+65-69 years,Female,T1,N1,M0,40,27,1,Moderately differentiated; Grade II,4,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,14
+65-69 years,Male,T1,N1,M0,52,26,1,Moderately differentiated; Grade II,11,"8070/3: Squamous cell carcinoma, NOS",Dead,16
+60-64 years,Male,T3,N1,M0,53,25,1,Moderately differentiated; Grade II,13,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+80-84 years,Male,T2,N1,M0,52,25,1,Moderately differentiated; Grade II,2,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+65-69 years,Male,T3,N1,M0,53,25,1,Moderately differentiated; Grade II,6,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+85+ years,Male,T3,N1,M0,53,25,1,Poorly differentiated; Grade III,15,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+65-69 years,Male,T2,N1,M0,52,25,1,Poorly differentiated; Grade III,25,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+60-64 years,Male,T2,N1,M0,54,25,1,Moderately differentiated; Grade II,11,"8070/3: Squamous cell carcinoma, NOS",Dead,26
+60-64 years,Female,T3,N1,M0,53,25,1,Poorly differentiated; Grade III,7,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T2,N1,M0,53,23,1,Poorly differentiated; Grade III,12,"8070/3: Squamous cell carcinoma, NOS",Untraced,44
+70-74 years,Male,T3,N1,M0,50,22,1,Moderately differentiated; Grade II,5,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+65-69 years,Female,T3,N1,M0,30,22,1,Moderately differentiated; Grade II,2,"8070/3: Squamous cell carcinoma, NOS",Dead,34
+65-69 years,Female,T2,N1,M0,50,22,1,Moderately differentiated; Grade II,12,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+60-64 years,Female,T3,N1,M0,53,20,1,Moderately differentiated; Grade II,10,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+65-69 years,Male,T2,N1,M0,53,20,1,Moderately differentiated; Grade II,18,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Untraced,51
+60-64 years,Male,T1,N1,M0,40,20,1,Poorly differentiated; Grade III,19,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N1,M0,53,20,1,Moderately differentiated; Grade II,1,"8070/3: Squamous cell carcinoma, NOS",Dead,11
+70-74 years,Female,T1,N1,M0,53,19,1,Well differentiated; Grade I,27,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N1,M1b,53,19,1,Poorly differentiated; Grade III,21,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Dead,13
+60-64 years,Female,T2,N1,M0,53,18,1,Poorly differentiated; Grade III,8,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N1,M0,30,18,1,Poorly differentiated; Grade III,10,"8070/3: Squamous cell carcinoma, NOS",Dead,17
+65-69 years,Female,T3,N1,M0,40,18,1,Poorly differentiated; Grade III,22,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Dead,8
+65-69 years,Male,T2,N1,M0,52,18,1,Moderately differentiated; Grade II,19,"8070/3: Squamous cell carcinoma, NOS",Dead,38
+70-74 years,Female,T1,N1,M0,30,17,1,Undifferentiated; anaplastic; Grade IV,27,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T1,N1,M0,53,16,1,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Dead,19
+65-69 years,Female,T2,N1,M0,52,15,1,Poorly differentiated; Grade III,1,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T1,N1,M0,53,15,1,Poorly differentiated; Grade III,3,"8070/3: Squamous cell carcinoma, NOS",Dead,40
+60-64 years,Male,T3,N1,M0,53,15,1,Poorly differentiated; Grade III,6,"8070/3: Squamous cell carcinoma, NOS",Dead,17
+60-64 years,Male,T3,N1,M0,53,15,1,Moderately differentiated; Grade II,3,"8070/3: Squamous cell carcinoma, NOS",Dead,21
+65-69 years,Male,T3,N1,M0,52,14,1,Poorly differentiated; Grade III,1,"8070/3: Squamous cell carcinoma, NOS",Dead,24
+60-64 years,Female,T3,N1,M0,53,13,1,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Dead,20
+70-74 years,Female,T2,N1,M0,53,12,1,Moderately differentiated; Grade II,10,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T1,N1,M0,30,10,1,Poorly differentiated; Grade III,22,"8070/3: Squamous cell carcinoma, NOS",Untraced,38
+75-79 years,Female,T2,N1,M0,53,10,1,Moderately differentiated; Grade II,59,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T1,N0,M0,53,135,0,Well differentiated; Grade I,9,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T2,N0,M0,53,124,0,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T3,N0,M0,40,110,0,Poorly differentiated; Grade III,6,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+60-64 years,Male,T3,N0,M0,53,100,0,Poorly differentiated; Grade III,25,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T2,N0,M0,53,100,0,Well differentiated; Grade I,5,"8070/3: Squamous cell carcinoma, NOS",Dead,30
+65-69 years,Male,T2,N0,M1a,50,100,0,Poorly differentiated; Grade III,5,"8070/3: Squamous cell carcinoma, NOS",Dead,16
+60-64 years,Female,T3,N0,M0,52,100,0,Poorly differentiated; Grade III,11,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,40,100,0,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+70-74 years,Male,T4,N0,M0,30,100,0,Poorly differentiated; Grade III,7,"8070/3: Squamous cell carcinoma, NOS",Dead,27
+65-69 years,Male,T3,N0,M0,30,100,0,Poorly differentiated; Grade III,2,"8070/3: Squamous cell carcinoma, NOS",Dead,8
+70-74 years,Female,T3,N0,M0,53,100,0,Moderately differentiated; Grade II,37,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+75-79 years,Male,T3,N0,M0,52,100,0,Moderately differentiated; Grade II,20,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T1,N0,M0,40,96,0,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Female,T3,N0,M0,53,95,0,Poorly differentiated; Grade III,8,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N0,M0,52,94,0,Moderately differentiated; Grade II,6,"8070/3: Squamous cell carcinoma, NOS",Dead,17
+60-64 years,Male,T3,N0,M0,52,93,0,Poorly differentiated; Grade III,29,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T3,N0,M0,54,91,0,Moderately differentiated; Grade II,3,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+65-69 years,Male,T2,N0,M0,40,90,0,Moderately differentiated; Grade II,15,"8070/3: Squamous cell carcinoma, NOS",Dead,54
+70-74 years,Male,T1,N0,M0,53,90,0,Moderately differentiated; Grade II,40,"8070/3: Squamous cell carcinoma, NOS",Dead,33
+80-84 years,Male,T4,N0,M0,40,90,0,Moderately differentiated; Grade II,15,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+65-69 years,Male,T3,N0,M0,52,90,0,Moderately differentiated; Grade II,35,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,52,89,0,Moderately differentiated; Grade II,23,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+60-64 years,Male,T2,N0,M0,53,87,0,Moderately differentiated; Grade II,26,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+60-64 years,Male,T3,N0,M0,55,86,0,Poorly differentiated; Grade III,71,"8070/3: Squamous cell carcinoma, NOS",Dead,15
+85+ years,Male,T3,N0,M0,53,83,0,Moderately differentiated; Grade II,2,"8070/3: Squamous cell carcinoma, NOS",Dead,1
+60-64 years,Female,T3,N0,M0,52,81,0,Moderately differentiated; Grade II,27,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T3,N0,M0,53,80,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Dead,27
+60-64 years,Male,T3,N0,M0,80,80,0,Moderately differentiated; Grade II,13,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,53,80,0,Moderately differentiated; Grade II,13,"8070/3: Squamous cell carcinoma, NOS",Dead,18
+70-74 years,Male,T2,N0,M0,53,80,0,Moderately differentiated; Grade II,29,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,53,80,0,Poorly differentiated; Grade III,24,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Female,T3,N0,M0,53,80,0,Poorly differentiated; Grade III,24,"8070/3: Squamous cell carcinoma, NOS",Dead,55
+65-69 years,Female,T2,N0,M0,53,80,0,Moderately differentiated; Grade II,27,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T2,N0,M0,53,80,0,Moderately differentiated; Grade II,48,"8070/3: Squamous cell carcinoma, NOS",Dead,15
+70-74 years,Female,T3,N0,M0,30,80,0,Moderately differentiated; Grade II,3,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Dead,7
+60-64 years,Male,T2,N0,M0,40,80,0,Moderately differentiated; Grade II,36,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T2,N0,M0,40,80,0,Poorly differentiated; Grade III,5,"8070/3: Squamous cell carcinoma, NOS",Untraced,41
+80-84 years,Male,T4,N0,M1b,53,80,0,Poorly differentiated; Grade III,1,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Dead,6
+70-74 years,Male,T3,N0,M0,53,75,0,Moderately differentiated; Grade II,29,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T1,N0,M0,53,75,0,Moderately differentiated; Grade II,24,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,53,75,0,Well differentiated; Grade I,28,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,53,75,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T4,N0,M0,40,74,0,Poorly differentiated; Grade III,21,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+75-79 years,Male,T2,N0,M0,80,71,0,Poorly differentiated; Grade III,1,"8070/3: Squamous cell carcinoma, NOS",Dead,18
+70-74 years,Male,T2,N0,M0,52,70,0,Moderately differentiated; Grade II,13,"8070/3: Squamous cell carcinoma, NOS",Dead,24
+65-69 years,Male,T2,N0,M0,54,70,0,Poorly differentiated; Grade III,32,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M1a,53,70,0,Poorly differentiated; Grade III,39,"8070/3: Squamous cell carcinoma, NOS",Dead,4
+60-64 years,Female,T3,N0,M0,30,70,0,Moderately differentiated; Grade II,32,"8070/3: Squamous cell carcinoma, NOS",Untraced,49
+65-69 years,Female,T3,N0,M0,53,70,0,Well differentiated; Grade I,9,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+60-64 years,Male,T3,N0,M0,53,70,0,Moderately differentiated; Grade II,14,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,53,70,0,Moderately differentiated; Grade II,24,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,28
+60-64 years,Male,T4,N0,M0,53,70,0,Poorly differentiated; Grade III,5,"8070/3: Squamous cell carcinoma, NOS",Dead,13
+70-74 years,Male,T3,N0,M0,50,70,0,Poorly differentiated; Grade III,5,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T3,N0,M1b,52,70,0,Moderately differentiated; Grade II,13,"8070/3: Squamous cell carcinoma, NOS",Untraced,45
+60-64 years,Male,T3,N0,M0,53,70,0,Well differentiated; Grade I,18,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,60
+70-74 years,Male,T3,N0,M0,52,70,0,Poorly differentiated; Grade III,20,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T3,N0,M0,50,68,0,Moderately differentiated; Grade II,11,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,52,67,0,Poorly differentiated; Grade III,6,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+70-74 years,Male,T3,N0,M0,30,65,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Dead,12
+75-79 years,Female,T3,N0,M0,53,65,0,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Dead,1
+75-79 years,Female,T3,N0,M0,50,65,0,Moderately differentiated; Grade II,30,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,8
+65-69 years,Female,T3,N0,M0,53,65,0,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Male,T3,N0,M0,53,65,0,Moderately differentiated; Grade II,11,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+65-69 years,Male,T3,N0,M0,52,65,0,Moderately differentiated; Grade II,14,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,15
+70-74 years,Male,T4,N0,M0,40,65,0,Poorly differentiated; Grade III,2,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Female,T2,N0,M0,53,64,0,Moderately differentiated; Grade II,41,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T2,N0,M0,30,62,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,54,61,0,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Dead,46
+75-79 years,Male,T3,N0,M0,50,61,0,Poorly differentiated; Grade III,5,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+60-64 years,Female,T3,N0,M0,52,60,0,Moderately differentiated; Grade II,1,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,15
+75-79 years,Male,T3,N0,M0,53,60,0,Poorly differentiated; Grade III,10,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Alive,60
+60-64 years,Female,T3,N0,M1a,30,60,0,Well differentiated; Grade I,12,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,54
+65-69 years,Male,T4,N0,M0,53,60,0,Moderately differentiated; Grade II,3,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+70-74 years,Male,T3,N0,M0,53,60,0,Poorly differentiated; Grade III,7,"8070/3: Squamous cell carcinoma, NOS",Dead,24
+60-64 years,Male,T3,N0,M0,53,60,0,Poorly differentiated; Grade III,12,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T3,N0,M1a,53,60,0,Poorly differentiated; Grade III,18,"8070/3: Squamous cell carcinoma, NOS",Dead,15
+65-69 years,Male,T2,N0,M0,40,60,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+60-64 years,Female,T1,N0,M0,30,60,0,Poorly differentiated; Grade III,32,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T2,N0,M0,30,60,0,Moderately differentiated; Grade II,14,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Untraced,44
+65-69 years,Male,T1,N0,M0,30,60,0,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+75-79 years,Female,T1,N0,M0,30,60,0,Poorly differentiated; Grade III,20,"8070/3: Squamous cell carcinoma, NOS",Untraced,49
+60-64 years,Female,T4,N0,M0,52,60,0,Poorly differentiated; Grade III,3,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+75-79 years,Male,T3,N0,M0,53,60,0,Poorly differentiated; Grade III,1,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+70-74 years,Male,T2,N0,M0,53,60,0,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T3,N0,M0,40,60,0,Poorly differentiated; Grade III,6,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+60-64 years,Female,T1,N0,M0,53,60,0,Moderately differentiated; Grade II,26,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,30,60,0,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Dead,52
+65-69 years,Male,T3,N0,M0,52,60,0,Moderately differentiated; Grade II,11,"8070/3: Squamous cell carcinoma, NOS",Dead,4
+60-64 years,Female,T3,N0,M0,53,60,0,Moderately differentiated; Grade II,1,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,19
+60-64 years,Female,T3,N0,M0,53,60,0,Moderately differentiated; Grade II,14,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Male,T3,N0,M0,54,60,0,Moderately differentiated; Grade II,9,"8070/3: Squamous cell carcinoma, NOS",Untraced,1
+70-74 years,Male,T3,N0,M0,40,60,0,Poorly differentiated; Grade III,15,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Female,T3,N0,M0,53,59,0,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+75-79 years,Female,T3,N0,M0,53,59,0,Poorly differentiated; Grade III,12,"8070/3: Squamous cell carcinoma, NOS",Dead,4
+70-74 years,Male,T3,N0,M0,52,59,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Dead,13
+70-74 years,Male,T3,N0,M0,30,59,0,Moderately differentiated; Grade II,26,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,52,58,0,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T3,N0,M0,80,58,0,Poorly differentiated; Grade III,37,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+70-74 years,Female,T3,N0,M0,30,58,0,Moderately differentiated; Grade II,1,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+65-69 years,Male,T1,N0,M0,53,57,0,Moderately differentiated; Grade II,21,"8070/3: Squamous cell carcinoma, NOS",Untraced,42
+65-69 years,Female,T3,N0,M0,53,57,0,Moderately differentiated; Grade II,13,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T3,N0,M0,53,56,0,Poorly differentiated; Grade III,15,"8070/3: Squamous cell carcinoma, NOS",Dead,3
+75-79 years,Male,T3,N0,M0,52,55,0,Moderately differentiated; Grade II,15,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+70-74 years,Male,T1,N0,M0,53,55,0,Poorly differentiated; Grade III,3,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+65-69 years,Female,T4,N0,M0,30,55,0,Poorly differentiated; Grade III,13,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+70-74 years,Male,T3,N0,M0,30,55,0,Moderately differentiated; Grade II,21,"8070/3: Squamous cell carcinoma, NOS",Dead,36
+60-64 years,Female,T2,N0,M0,30,52,0,Poorly differentiated; Grade III,10,"8070/3: Squamous cell carcinoma, NOS",Dead,13
+60-64 years,Male,T3,N0,M0,40,52,0,Poorly differentiated; Grade III,7,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+70-74 years,Female,T2,N0,M0,50,52,0,Moderately differentiated; Grade II,2,"8070/3: Squamous cell carcinoma, NOS",Dead,25
+65-69 years,Male,T3,N0,M0,40,52,0,Moderately differentiated; Grade II,20,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,27
+65-69 years,Female,T3,N0,M0,30,50,0,Poorly differentiated; Grade III,9,"8070/3: Squamous cell carcinoma, NOS",Dead,50
+60-64 years,Female,T3,N0,M0,53,50,0,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,50,50,0,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Dead,20
+75-79 years,Male,T1,N0,M0,80,50,0,Moderately differentiated; Grade II,21,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T4,N0,M0,53,50,0,Poorly differentiated; Grade III,14,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T2,N0,M0,53,50,0,Moderately differentiated; Grade II,28,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,40,50,0,Moderately differentiated; Grade II,14,"8070/3: Squamous cell carcinoma, NOS",Dead,35
+60-64 years,Male,T3,N0,M0,53,50,0,Moderately differentiated; Grade II,32,"8070/3: Squamous cell carcinoma, NOS",Dead,8
+60-64 years,Male,T3,N0,M0,53,50,0,Moderately differentiated; Grade II,16,"8070/3: Squamous cell carcinoma, NOS",Dead,32
+60-64 years,Male,T4,N0,M0,53,50,0,Moderately differentiated; Grade II,5,"8070/3: Squamous cell carcinoma, NOS",Dead,59
+60-64 years,Male,T3,N0,M0,53,50,0,Moderately differentiated; Grade II,3,"8070/3: Squamous cell carcinoma, NOS",Dead,11
+65-69 years,Female,T3,N0,M0,53,50,0,Poorly differentiated; Grade III,3,"8070/3: Squamous cell carcinoma, NOS",Dead,11
+70-74 years,Female,T3,N0,M0,53,50,0,Moderately differentiated; Grade II,10,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+70-74 years,Female,T2,N0,M0,53,50,0,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,52,50,0,Moderately differentiated; Grade II,18,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,6
+60-64 years,Female,T1,N0,M0,53,50,0,Well differentiated; Grade I,9,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Female,T2,N0,M0,53,50,0,Poorly differentiated; Grade III,15,"8070/3: Squamous cell carcinoma, NOS",Dead,48
+65-69 years,Male,T2,N0,M0,52,50,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Dead,32
+60-64 years,Female,T3,N0,M0,50,50,0,Moderately differentiated; Grade II,49,"8070/3: Squamous cell carcinoma, NOS",Dead,49
+70-74 years,Male,T2,N0,M0,50,50,0,Moderately differentiated; Grade II,27,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,23
+60-64 years,Male,T1,N0,M0,30,50,0,Poorly differentiated; Grade III,32,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T3,N0,M0,40,50,0,Well differentiated; Grade I,17,"8070/3: Squamous cell carcinoma, NOS",Dead,12
+65-69 years,Male,T2,N0,M0,52,50,0,Moderately differentiated; Grade II,37,"8070/3: Squamous cell carcinoma, NOS",Dead,21
+65-69 years,Male,T3,N0,M0,30,50,0,Moderately differentiated; Grade II,2,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,1
+75-79 years,Female,T3,N0,M0,30,50,0,Poorly differentiated; Grade III,1,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+70-74 years,Female,T4,N0,M0,53,50,0,Well differentiated; Grade I,30,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T4,N0,M0,50,50,0,Moderately differentiated; Grade II,19,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+70-74 years,Male,T2,N0,M0,30,50,0,Moderately differentiated; Grade II,5,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,22
+80-84 years,Female,T3,N0,M0,40,50,0,Poorly differentiated; Grade III,3,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T2,N0,M0,53,50,0,Moderately differentiated; Grade II,3,"8070/3: Squamous cell carcinoma, NOS",Untraced,58
+65-69 years,Male,T2,N0,M0,52,50,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,52,50,0,Moderately differentiated; Grade II,13,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N0,M0,53,50,0,Moderately differentiated; Grade II,12,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,40,50,0,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Untraced,56
+60-64 years,Female,T4,N0,M0,53,50,0,Moderately differentiated; Grade II,25,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,40
+65-69 years,Female,T2,N0,M0,53,50,0,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+80-84 years,Male,T2,N0,M0,50,49,0,Moderately differentiated; Grade II,28,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,24
+75-79 years,Female,T3,N0,M0,40,48,0,Moderately differentiated; Grade II,10,"8070/3: Squamous cell carcinoma, NOS",Dead,3
+65-69 years,Male,T3,N0,M0,53,48,0,Moderately differentiated; Grade II,3,"8070/3: Squamous cell carcinoma, NOS",Dead,12
+60-64 years,Male,T3,N0,M0,53,48,0,Poorly differentiated; Grade III,10,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+65-69 years,Male,T4,N0,M0,53,47,0,Moderately differentiated; Grade II,20,"8070/3: Squamous cell carcinoma, NOS",Untraced,48
+75-79 years,Male,T1,N0,M0,53,47,0,Well differentiated; Grade I,25,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+70-74 years,Male,T3,N0,M0,80,47,0,Moderately differentiated; Grade II,10,"8070/3: Squamous cell carcinoma, NOS",Dead,3
+60-64 years,Male,T2,N0,M0,53,45,0,Moderately differentiated; Grade II,9,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+80-84 years,Female,T1,N0,M0,30,45,0,Poorly differentiated; Grade III,27,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+65-69 years,Male,T3,N0,M0,30,45,0,Moderately differentiated; Grade II,15,"8070/3: Squamous cell carcinoma, NOS",Dead,19
+65-69 years,Male,T2,N0,M0,52,45,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T2,N0,M0,52,45,0,Moderately differentiated; Grade II,2,"8070/3: Squamous cell carcinoma, NOS",Dead,3
+60-64 years,Male,T3,N0,M0,50,45,0,Poorly differentiated; Grade III,16,"8070/3: Squamous cell carcinoma, NOS",Dead,25
+70-74 years,Male,T2,N0,M0,54,44,0,Moderately differentiated; Grade II,12,"8070/3: Squamous cell carcinoma, NOS",Dead,3
+75-79 years,Female,T1,N0,M0,53,44,0,Poorly differentiated; Grade III,9,"8070/3: Squamous cell carcinoma, NOS",Dead,44
+75-79 years,Male,T3,N0,M0,40,43,0,Well differentiated; Grade I,12,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T2,N0,M0,50,42,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Dead,43
+60-64 years,Male,T2,N0,M0,52,42,0,Moderately differentiated; Grade II,9,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,53,41,0,Poorly differentiated; Grade III,13,"8070/3: Squamous cell carcinoma, NOS",Dead,27
+70-74 years,Female,T3,N0,M0,53,41,0,Poorly differentiated; Grade III,9,"8070/3: Squamous cell carcinoma, NOS",Dead,16
+70-74 years,Male,T1,N0,M0,40,40,0,Moderately differentiated; Grade II,5,"8070/3: Squamous cell carcinoma, NOS",Dead,40
+75-79 years,Male,T3,N0,M0,53,40,0,Moderately differentiated; Grade II,26,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,26
+65-69 years,Male,T2,N0,M0,30,40,0,Poorly differentiated; Grade III,6,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+60-64 years,Female,T1,N0,M0,53,40,0,Moderately differentiated; Grade II,9,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,10
+70-74 years,Female,T3,N0,M0,40,40,0,Poorly differentiated; Grade III,5,"8070/3: Squamous cell carcinoma, NOS",Dead,17
+80-84 years,Male,T3,N0,M0,53,40,0,Moderately differentiated; Grade II,22,"8070/3: Squamous cell carcinoma, NOS",Dead,22
+70-74 years,Female,T3,N0,M0,53,40,0,Poorly differentiated; Grade III,2,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Female,T3,N0,M0,53,40,0,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Dead,19
+60-64 years,Male,T3,N0,M0,53,40,0,Poorly differentiated; Grade III,3,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+70-74 years,Male,T3,N0,M0,53,40,0,Moderately differentiated; Grade II,15,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T2,N0,M0,53,40,0,Moderately differentiated; Grade II,6,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,54,40,0,Moderately differentiated; Grade II,26,"8070/3: Squamous cell carcinoma, NOS",Untraced,45
+70-74 years,Female,T2,N0,M0,80,40,0,Poorly differentiated; Grade III,8,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T3,N0,M0,30,40,0,Moderately differentiated; Grade II,3,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N0,M0,30,40,0,Moderately differentiated; Grade II,16,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,30,40,0,Poorly differentiated; Grade III,3,"8070/3: Squamous cell carcinoma, NOS",Dead,24
+60-64 years,Male,T3,N0,M0,40,40,0,Poorly differentiated; Grade III,19,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T1,N0,M0,53,40,0,Poorly differentiated; Grade III,8,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T1,N0,M0,30,40,0,Moderately differentiated; Grade II,13,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N0,M0,53,40,0,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T3,N0,M0,30,40,0,Poorly differentiated; Grade III,5,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T3,N0,M0,52,40,0,Moderately differentiated; Grade II,27,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,19
+65-69 years,Male,T3,N0,M0,40,40,0,Poorly differentiated; Grade III,10,"8070/3: Squamous cell carcinoma, NOS",Dead,23
+65-69 years,Male,T3,N0,M0,52,40,0,Moderately differentiated; Grade II,3,"8070/3: Squamous cell carcinoma, NOS",Dead,20
+60-64 years,Female,T3,N0,M0,53,40,0,Poorly differentiated; Grade III,10,"8070/3: Squamous cell carcinoma, NOS",Dead,26
+60-64 years,Male,T2,N0,M0,40,40,0,Well differentiated; Grade I,13,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+70-74 years,Male,T3,N0,M1a,52,40,0,Moderately differentiated; Grade II,6,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+75-79 years,Male,T4,N0,M0,50,40,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+60-64 years,Male,T3,N0,M0,51,40,0,Moderately differentiated; Grade II,26,"8070/3: Squamous cell carcinoma, NOS",Dead,22
+65-69 years,Female,T1,N0,M0,52,40,0,Poorly differentiated; Grade III,20,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Female,T3,N0,M0,53,40,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Untraced,50
+75-79 years,Male,T3,N0,M0,40,40,0,Moderately differentiated; Grade II,6,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+60-64 years,Male,T3,N0,M0,40,40,0,Moderately differentiated; Grade II,16,"8070/3: Squamous cell carcinoma, NOS",Dead,24
+75-79 years,Male,T3,N0,M0,30,40,0,Poorly differentiated; Grade III,2,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T3,N0,M0,30,40,0,Moderately differentiated; Grade II,10,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+65-69 years,Male,T1,N0,M0,30,40,0,Moderately differentiated; Grade II,2,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,53,40,0,Moderately differentiated; Grade II,12,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T2,N0,M0,52,39,0,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+75-79 years,Male,T1,N0,M0,30,39,0,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Dead,22
+75-79 years,Male,T2,N0,M0,30,38,0,Undifferentiated; anaplastic; Grade IV,7,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,29
+60-64 years,Male,T2,N0,M0,53,38,0,Moderately differentiated; Grade II,15,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+70-74 years,Female,T3,N0,M0,52,37,0,Poorly differentiated; Grade III,2,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T2,N0,M0,52,37,0,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Untraced,54
+60-64 years,Female,T1,N0,M0,30,37,0,Poorly differentiated; Grade III,1,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T3,N0,M0,30,36,0,Moderately differentiated; Grade II,25,"8070/3: Squamous cell carcinoma, NOS",Dead,34
+60-64 years,Male,T3,N0,M0,52,36,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Dead,3
+70-74 years,Female,T1,N0,M0,50,35,0,Moderately differentiated; Grade II,27,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T3,N0,M0,53,35,0,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Dead,21
+70-74 years,Male,T4,N0,M1a,52,35,0,Well differentiated; Grade I,12,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+75-79 years,Female,T3,N0,M0,50,35,0,Moderately differentiated; Grade II,17,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+65-69 years,Female,T3,N0,M0,40,35,0,Moderately differentiated; Grade II,30,"8070/3: Squamous cell carcinoma, NOS",Dead,48
+80-84 years,Female,T3,N0,M0,53,35,0,Well differentiated; Grade I,14,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Female,T1,N0,M0,53,35,0,Poorly differentiated; Grade III,20,"8070/3: Squamous cell carcinoma, NOS",Dead,40
+60-64 years,Male,T1,N0,M0,53,35,0,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+80-84 years,Male,T1,N0,M0,53,35,0,Well differentiated; Grade I,29,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N0,M0,53,35,0,Poorly differentiated; Grade III,7,"8070/3: Squamous cell carcinoma, NOS",Untraced,52
+65-69 years,Female,T4,N0,M0,40,35,0,Moderately differentiated; Grade II,47,"8075/3: Squamous cell carcinoma, adenoid",Alive,60
+65-69 years,Male,T3,N0,M0,53,35,0,Poorly differentiated; Grade III,9,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Dead,24
+60-64 years,Male,T3,N0,M0,53,35,0,Poorly differentiated; Grade III,24,"8070/3: Squamous cell carcinoma, NOS",Untraced,47
+60-64 years,Male,T3,N0,M0,40,35,0,Moderately differentiated; Grade II,5,"8070/3: Squamous cell carcinoma, NOS",Dead,12
+70-74 years,Female,T1,N0,M0,53,35,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,53,35,0,Moderately differentiated; Grade II,29,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T2,N0,M0,50,35,0,Poorly differentiated; Grade III,10,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+80-84 years,Male,T3,N0,M0,40,35,0,Moderately differentiated; Grade II,23,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,31
+60-64 years,Male,T3,N0,M0,52,35,0,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N0,M0,53,35,0,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+85+ years,Female,T3,N0,M0,53,35,0,Moderately differentiated; Grade II,28,"8070/3: Squamous cell carcinoma, NOS",Dead,32
+65-69 years,Female,T3,N0,M0,52,35,0,Poorly differentiated; Grade III,38,"8070/3: Squamous cell carcinoma, NOS",Dead,23
+75-79 years,Male,T3,N0,M0,52,35,0,Moderately differentiated; Grade II,13,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,53,35,0,Poorly differentiated; Grade III,12,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+80-84 years,Female,T1,N0,M0,50,35,0,Moderately differentiated; Grade II,29,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N0,M0,53,34,0,Well differentiated; Grade I,10,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+75-79 years,Male,T3,N0,M0,52,34,0,Poorly differentiated; Grade III,33,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+60-64 years,Female,T3,N0,M0,52,34,0,Moderately differentiated; Grade II,22,"8070/3: Squamous cell carcinoma, NOS",Dead,23
+70-74 years,Male,T1,N0,M0,53,34,0,Moderately differentiated; Grade II,27,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Alive,60
+70-74 years,Female,T3,N0,M0,53,34,0,Poorly differentiated; Grade III,6,"8070/3: Squamous cell carcinoma, NOS",Dead,28
+60-64 years,Male,T3,N0,M1a,52,34,0,Poorly differentiated; Grade III,5,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,53,34,0,Well differentiated; Grade I,9,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Male,T3,N0,M0,40,33,0,Moderately differentiated; Grade II,14,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+60-64 years,Male,T2,N0,M1b,53,33,0,Poorly differentiated; Grade III,70,"8070/3: Squamous cell carcinoma, NOS",Dead,29
+65-69 years,Female,T3,N0,M0,52,33,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Untraced,60
+60-64 years,Male,T3,N0,M0,50,33,0,Moderately differentiated; Grade II,11,"8070/3: Squamous cell carcinoma, NOS",Dead,16
+70-74 years,Female,T2,N0,M0,52,33,0,Moderately differentiated; Grade II,2,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+75-79 years,Female,T4,N0,M0,52,32,0,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+70-74 years,Male,T3,N0,M0,30,32,0,Moderately differentiated; Grade II,26,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,55
+60-64 years,Female,T4,N0,M0,53,32,0,Moderately differentiated; Grade II,5,"8070/3: Squamous cell carcinoma, NOS",Dead,15
+80-84 years,Male,T2,N0,M0,53,31,0,Poorly differentiated; Grade III,24,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+70-74 years,Female,T4,N0,M1a,51,31,0,Poorly differentiated; Grade III,61,"8070/3: Squamous cell carcinoma, NOS",Dead,16
+75-79 years,Male,T3,N0,M0,50,30,0,Moderately differentiated; Grade II,2,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,13
+60-64 years,Male,T2,N0,M0,53,30,0,Well differentiated; Grade I,22,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,15
+70-74 years,Male,T3,N0,M0,53,30,0,Poorly differentiated; Grade III,2,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+80-84 years,Female,T3,N0,M0,53,30,0,Poorly differentiated; Grade III,19,"8070/3: Squamous cell carcinoma, NOS",Dead,24
+65-69 years,Female,T3,N0,M0,80,30,0,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T3,N0,M0,53,30,0,Poorly differentiated; Grade III,11,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+85+ years,Female,T3,N0,M0,53,30,0,Moderately differentiated; Grade II,16,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T1,N0,M0,50,30,0,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Dead,42
+65-69 years,Male,T3,N0,M0,53,30,0,Moderately differentiated; Grade II,55,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+65-69 years,Female,T1,N0,M0,53,30,0,Moderately differentiated; Grade II,21,"8070/3: Squamous cell carcinoma, NOS",Dead,40
+70-74 years,Male,T2,N0,M0,30,30,0,Moderately differentiated; Grade II,10,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Dead,5
+70-74 years,Male,T3,N0,M0,53,30,0,Moderately differentiated; Grade II,15,"8070/3: Squamous cell carcinoma, NOS",Dead,43
+65-69 years,Male,T2,N0,M0,52,30,0,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T1,N0,M0,30,30,0,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Dead,19
+60-64 years,Male,T3,N0,M0,52,30,0,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Female,T2,N0,M0,52,30,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Dead,23
+75-79 years,Female,T1,N0,M0,50,30,0,Moderately differentiated; Grade II,26,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+60-64 years,Male,T1,N0,M0,53,30,0,Poorly differentiated; Grade III,2,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T1,N0,M0,52,30,0,Moderately differentiated; Grade II,5,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,34
+70-74 years,Male,T3,N0,M1NOS,40,30,0,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Dead,21
+70-74 years,Female,T3,N0,M0,53,30,0,Moderately differentiated; Grade II,2,"8070/3: Squamous cell carcinoma, NOS",Dead,42
+70-74 years,Male,T2,N0,M0,30,30,0,Well differentiated; Grade I,7,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+70-74 years,Female,T3,N0,M0,40,30,0,Moderately differentiated; Grade II,3,"8070/3: Squamous cell carcinoma, NOS",Dead,12
+80-84 years,Male,T1,N0,M0,53,30,0,Moderately differentiated; Grade II,6,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+60-64 years,Female,T3,N0,M0,53,30,0,Moderately differentiated; Grade II,19,"8070/3: Squamous cell carcinoma, NOS",Untraced,41
+65-69 years,Female,T3,N0,M0,30,30,0,Moderately differentiated; Grade II,9,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+60-64 years,Male,T4,N0,M0,52,30,0,Poorly differentiated; Grade III,9,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T1,N0,M0,52,30,0,Moderately differentiated; Grade II,13,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T3,N0,M0,53,30,0,Well differentiated; Grade I,7,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,53,30,0,Moderately differentiated; Grade II,15,"8070/3: Squamous cell carcinoma, NOS",Dead,32
+60-64 years,Male,T3,N0,M0,53,30,0,Moderately differentiated; Grade II,31,"8070/3: Squamous cell carcinoma, NOS",Untraced,55
+65-69 years,Male,T3,N0,M0,53,30,0,Moderately differentiated; Grade II,25,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+80-84 years,Male,T3,N0,M0,52,30,0,Moderately differentiated; Grade II,25,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+65-69 years,Female,T2,N0,M0,53,28,0,Moderately differentiated; Grade II,22,"8070/3: Squamous cell carcinoma, NOS",Dead,17
+70-74 years,Female,T1,N0,M0,53,28,0,Well differentiated; Grade I,17,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N0,M0,52,28,0,Poorly differentiated; Grade III,6,"8070/3: Squamous cell carcinoma, NOS",Dead,23
+70-74 years,Female,T1,N0,M0,50,28,0,Poorly differentiated; Grade III,8,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T1,N0,M0,40,28,0,Moderately differentiated; Grade II,13,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,30,28,0,Poorly differentiated; Grade III,11,"8070/3: Squamous cell carcinoma, NOS",Dead,1
+75-79 years,Female,T1,N0,M0,30,28,0,Poorly differentiated; Grade III,12,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Alive,60
+65-69 years,Male,T1,N0,M0,53,28,0,Poorly differentiated; Grade III,7,"8070/3: Squamous cell carcinoma, NOS",Dead,31
+75-79 years,Female,T3,N0,M0,54,27,0,Moderately differentiated; Grade II,2,"8070/3: Squamous cell carcinoma, NOS",Dead,16
+65-69 years,Male,T1,N0,M0,52,27,0,Poorly differentiated; Grade III,5,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T1,N0,M0,40,27,0,Poorly differentiated; Grade III,25,"8070/3: Squamous cell carcinoma, NOS",Dead,27
+70-74 years,Male,T3,N0,M0,53,26,0,Poorly differentiated; Grade III,11,"8070/3: Squamous cell carcinoma, NOS",Dead,7
+80-84 years,Male,T1,N0,M0,50,26,0,Well differentiated; Grade I,6,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,52,26,0,Moderately differentiated; Grade II,3,"8070/3: Squamous cell carcinoma, NOS",Dead,30
+60-64 years,Female,T1,N0,M0,53,26,0,Poorly differentiated; Grade III,22,"8070/3: Squamous cell carcinoma, NOS",Dead,39
+60-64 years,Male,T1,N0,M0,53,26,0,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Dead,8
+65-69 years,Male,T1,N0,M0,53,26,0,Well differentiated; Grade I,7,"8070/3: Squamous cell carcinoma, NOS",Untraced,43
+75-79 years,Male,T3,N0,M0,52,25,0,Moderately differentiated; Grade II,6,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+75-79 years,Male,T1,N0,M0,30,25,0,Moderately differentiated; Grade II,20,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+80-84 years,Male,T2,N0,M0,30,25,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+75-79 years,Female,T1,N0,M0,50,25,0,Well differentiated; Grade I,18,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,53,25,0,Poorly differentiated; Grade III,16,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,42
+80-84 years,Female,T2,N0,M0,40,25,0,Moderately differentiated; Grade II,27,"8070/3: Squamous cell carcinoma, NOS",Untraced,47
+70-74 years,Female,T1,N0,M0,50,25,0,Moderately differentiated; Grade II,3,"8070/3: Squamous cell carcinoma, NOS",Dead,37
+70-74 years,Male,T2,N0,M0,53,25,0,Moderately differentiated; Grade II,12,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T2,N0,M0,50,25,0,Moderately differentiated; Grade II,11,"8070/3: Squamous cell carcinoma, NOS",Dead,46
+65-69 years,Male,T1,N0,M0,53,25,0,Moderately differentiated; Grade II,16,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,80,25,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Dead,3
+70-74 years,Male,T1,N0,M0,30,25,0,Poorly differentiated; Grade III,7,"8070/3: Squamous cell carcinoma, NOS",Dead,53
+75-79 years,Male,T1,N0,M0,52,25,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T2,N0,M0,53,25,0,Undifferentiated; anaplastic; Grade IV,41,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T2,N0,M0,52,25,0,Well differentiated; Grade I,22,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T2,N0,M0,52,25,0,Moderately differentiated; Grade II,6,"8070/3: Squamous cell carcinoma, NOS",Dead,17
+75-79 years,Female,T2,N0,M0,53,24,0,Moderately differentiated; Grade II,5,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+65-69 years,Male,T4,N0,M0,53,24,0,Moderately differentiated; Grade II,6,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Male,T1,N0,M0,53,24,0,Moderately differentiated; Grade II,24,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N0,M0,53,24,0,Moderately differentiated; Grade II,9,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T1,N0,M0,52,24,0,Moderately differentiated; Grade II,27,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T1,N0,M0,30,24,0,Moderately differentiated; Grade II,33,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Alive,60
+75-79 years,Female,T1,N0,M0,30,23,0,Moderately differentiated; Grade II,9,"8070/3: Squamous cell carcinoma, NOS",Dead,8
+65-69 years,Male,T1,N0,M0,40,23,0,Moderately differentiated; Grade II,17,"8070/3: Squamous cell carcinoma, NOS",Dead,36
+70-74 years,Male,T1,N0,M0,52,22,0,Well differentiated; Grade I,18,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T2,N0,M0,52,22,0,Moderately differentiated; Grade II,11,"8070/3: Squamous cell carcinoma, NOS",Untraced,52
+70-74 years,Female,T2,N0,M0,53,22,0,Poorly differentiated; Grade III,25,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T2,N0,M0,30,22,0,Well differentiated; Grade I,12,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T2,N0,M0,30,22,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Dead,30
+70-74 years,Male,T3,N0,M0,53,22,0,Moderately differentiated; Grade II,14,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Male,T2,N0,M0,52,22,0,Well differentiated; Grade I,18,"8070/3: Squamous cell carcinoma, NOS",Dead,33
+65-69 years,Male,T3,N0,M0,53,21,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Female,T2,N0,M0,80,21,0,Poorly differentiated; Grade III,5,"8070/3: Squamous cell carcinoma, NOS",Dead,38
+70-74 years,Female,T3,N0,M0,80,21,0,Moderately differentiated; Grade II,9,"8070/3: Squamous cell carcinoma, NOS",Dead,3
+70-74 years,Male,T1,N0,M0,50,21,0,Moderately differentiated; Grade II,19,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T3,N0,M0,53,21,0,Poorly differentiated; Grade III,12,"8070/3: Squamous cell carcinoma, NOS",Dead,37
+65-69 years,Female,T1,N0,M0,52,20,0,Poorly differentiated; Grade III,15,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N0,M0,30,20,0,Moderately differentiated; Grade II,23,"8070/3: Squamous cell carcinoma, NOS",Dead,5
+65-69 years,Male,T1,N0,M0,30,20,0,Poorly differentiated; Grade III,3,"8070/3: Squamous cell carcinoma, NOS",Dead,60
+60-64 years,Male,T1,N0,M0,53,20,0,Poorly differentiated; Grade III,11,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T1,N0,M0,53,20,0,Moderately differentiated; Grade II,2,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T2,N0,M0,53,20,0,Well differentiated; Grade I,19,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T3,N0,M0,53,20,0,Moderately differentiated; Grade II,12,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T1,N0,M0,53,20,0,Poorly differentiated; Grade III,14,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Alive,60
+60-64 years,Male,T2,N0,M0,50,20,0,Poorly differentiated; Grade III,10,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T3,N0,M1a,80,20,0,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+70-74 years,Female,T3,N0,M0,40,20,0,Poorly differentiated; Grade III,12,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T1,N0,M0,50,20,0,Poorly differentiated; Grade III,32,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+70-74 years,Female,T2,N0,M0,40,20,0,Poorly differentiated; Grade III,41,"8070/3: Squamous cell carcinoma, NOS",Dead,38
+60-64 years,Male,T2,N0,M0,40,20,0,Poorly differentiated; Grade III,19,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Female,T1,N0,M0,53,20,0,Moderately differentiated; Grade II,17,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+75-79 years,Female,T1,N0,M0,52,20,0,Moderately differentiated; Grade II,31,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,25
+70-74 years,Male,T3,N0,M0,80,20,0,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Dead,57
+80-84 years,Female,T2,N0,M0,53,20,0,Poorly differentiated; Grade III,7,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,53,20,0,Poorly differentiated; Grade III,22,"8070/3: Squamous cell carcinoma, NOS",Untraced,41
+75-79 years,Female,T3,N0,M0,50,20,0,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Dead,50
+60-64 years,Male,T4,N0,M0,53,20,0,Moderately differentiated; Grade II,16,"8070/3: Squamous cell carcinoma, NOS",Dead,2
+60-64 years,Male,T1,N0,M0,30,20,0,Moderately differentiated; Grade II,6,"8070/3: Squamous cell carcinoma, NOS",Dead,22
+60-64 years,Male,T2,N0,M0,53,20,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+60-64 years,Male,T1,N0,M0,53,19,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Dead,21
+60-64 years,Female,T1,N0,M0,53,18,0,Moderately differentiated; Grade II,9,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Female,T1,N0,M0,53,18,0,Poorly differentiated; Grade III,42,"8070/3: Squamous cell carcinoma, NOS",Dead,36
+85+ years,Female,T1,N0,M0,52,18,0,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T2,N0,M0,30,18,0,Poorly differentiated; Grade III,27,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T3,N0,M0,53,18,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,52,18,0,Poorly differentiated; Grade III,8,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T1,N0,M0,53,18,0,Moderately differentiated; Grade II,1,"8070/3: Squamous cell carcinoma, NOS",Dead,46
+75-79 years,Female,T2,N0,M0,54,17,0,Moderately differentiated; Grade II,15,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+75-79 years,Male,T1,N0,M0,40,17,0,Moderately differentiated; Grade II,20,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,53,17,0,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Dead,16
+70-74 years,Female,T1,N0,M0,30,17,0,Moderately differentiated; Grade II,6,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+70-74 years,Female,T1,N0,M0,40,17,0,Moderately differentiated; Grade II,14,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Dead,26
+65-69 years,Female,T1,N0,M0,53,16,0,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Female,T1,N0,M0,53,16,0,Poorly differentiated; Grade III,20,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T1,N0,M0,30,16,0,Poorly differentiated; Grade III,11,"8070/3: Squamous cell carcinoma, NOS",Dead,6
+65-69 years,Male,T1,N0,M0,50,16,0,Poorly differentiated; Grade III,76,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Male,T2,N0,M0,53,16,0,Well differentiated; Grade I,18,"8070/3: Squamous cell carcinoma, NOS",Dead,30
+75-79 years,Female,T2,N0,M0,52,15,0,Poorly differentiated; Grade III,16,"8070/3: Squamous cell carcinoma, NOS",Dead,60
+70-74 years,Female,T1,N0,M0,52,15,0,Moderately differentiated; Grade II,3,"8070/3: Squamous cell carcinoma, NOS",Dead,37
+65-69 years,Female,T2,N0,M0,80,15,0,Moderately differentiated; Grade II,2,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+65-69 years,Male,T3,N0,M0,53,15,0,Poorly differentiated; Grade III,2,"8070/3: Squamous cell carcinoma, NOS",Dead,9
+65-69 years,Female,T2,N0,M0,40,15,0,Moderately differentiated; Grade II,24,"8075/3: Squamous cell carcinoma, adenoid",Dead,20
+75-79 years,Female,T1,N0,M0,53,15,0,Poorly differentiated; Grade III,23,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T2,N0,M0,54,15,0,Moderately differentiated; Grade II,14,"8070/3: Squamous cell carcinoma, NOS",Dead,44
+65-69 years,Male,T2,N0,M0,53,15,0,Well differentiated; Grade I,8,"8070/3: Squamous cell carcinoma, NOS",Dead,30
+60-64 years,Male,T1,N0,M0,40,15,0,Moderately differentiated; Grade II,7,"8070/3: Squamous cell carcinoma, NOS",Dead,15
+65-69 years,Male,T2,N0,M0,50,15,0,Moderately differentiated; Grade II,22,"8070/3: Squamous cell carcinoma, NOS",Dead,19
+60-64 years,Male,T1,N0,M0,80,15,0,Moderately differentiated; Grade II,22,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T1,N0,M0,53,14,0,Moderately differentiated; Grade II,11,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T1,N0,M0,53,14,0,Well differentiated; Grade I,20,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Alive,60
+65-69 years,Male,T1,N0,M0,53,14,0,Poorly differentiated; Grade III,13,"8070/3: Squamous cell carcinoma, NOS",Dead,25
+60-64 years,Male,T3,N0,M0,40,14,0,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Dead,15
+70-74 years,Male,T1,N0,M0,30,13,0,Moderately differentiated; Grade II,15,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+65-69 years,Male,T1,N0,M0,52,13,0,Well differentiated; Grade I,5,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T1,N0,M0,53,13,0,Moderately differentiated; Grade II,2,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T1,N0,M0,53,12,0,Moderately differentiated; Grade II,39,"8070/3: Squamous cell carcinoma, NOS",Dead,22
+60-64 years,Male,T1,N0,M0,30,11,0,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Dead,59
+65-69 years,Male,T1,N0,M0,53,11,0,Moderately differentiated; Grade II,27,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T3,N0,M0,53,11,0,Poorly differentiated; Grade III,17,"8070/3: Squamous cell carcinoma, NOS",Dead,8
+70-74 years,Male,T2,N0,M0,50,10,0,Moderately differentiated; Grade II,19,"8070/3: Squamous cell carcinoma, NOS",Untraced,44
+60-64 years,Male,T1,N0,M0,53,10,0,Moderately differentiated; Grade II,18,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Male,T1,N0,M0,30,10,0,Well differentiated; Grade I,20,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Male,T1,N0,M0,52,10,0,Poorly differentiated; Grade III,11,"8070/3: Squamous cell carcinoma, NOS",Untraced,51
+60-64 years,Female,T1,N0,M0,30,10,0,Moderately differentiated; Grade II,41,"8070/3: Squamous cell carcinoma, NOS",Dead,24
+65-69 years,Female,T2,N0,M0,52,10,0,Poorly differentiated; Grade III,20,"8070/3: Squamous cell carcinoma, NOS",Dead,23
+65-69 years,Male,T1,N0,M0,53,10,0,Poorly differentiated; Grade III,3,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+75-79 years,Female,T2,N0,M0,40,10,0,Moderately differentiated; Grade II,23,"8070/3: Squamous cell carcinoma, NOS",Untraced,33
+60-64 years,Male,T3,N0,M0,53,10,0,Poorly differentiated; Grade III,1,"8070/3: Squamous cell carcinoma, NOS",Dead,14
+65-69 years,Male,T3,N0,M0,52,10,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Dead,57
+70-74 years,Male,T2,N0,M0,52,10,0,Moderately differentiated; Grade II,12,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+80-84 years,Male,T1,N0,M0,30,9,0,Moderately differentiated; Grade II,8,"8070/3: Squamous cell carcinoma, NOS",Dead,21
+70-74 years,Female,T2,N0,M0,53,9,0,Poorly differentiated; Grade III,4,"8070/3: Squamous cell carcinoma, NOS",Dead,24
+65-69 years,Male,T1,N0,M0,51,9,0,Moderately differentiated; Grade II,2,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T1,N0,M0,53,8,0,Poorly differentiated; Grade III,2,"8070/3: Squamous cell carcinoma, NOS",Dead,16
+80-84 years,Male,T1,N0,M0,53,8,0,Poorly differentiated; Grade III,15,"8070/3: Squamous cell carcinoma, NOS",Dead,15
+70-74 years,Female,T1,N0,M0,52,8,0,Undifferentiated; anaplastic; Grade IV,26,"8070/3: Squamous cell carcinoma, NOS",Untraced,41
+60-64 years,Male,T1,N0,M0,80,8,0,Moderately differentiated; Grade II,28,"8070/3: Squamous cell carcinoma, NOS",Dead,23
+65-69 years,Male,T3,N0,M0,54,8,0,Well differentiated; Grade I,16,"8070/3: Squamous cell carcinoma, NOS",Dead,30
+65-69 years,Male,T2,N0,M0,50,7,0,Poorly differentiated; Grade III,19,"8070/3: Squamous cell carcinoma, NOS",Dead,10
+60-64 years,Male,T2,N0,M0,80,6,0,Poorly differentiated; Grade III,3,"8070/3: Squamous cell carcinoma, NOS",Untraced,11
+70-74 years,Male,T1,N0,M0,53,6,0,Moderately differentiated; Grade II,17,"8070/3: Squamous cell carcinoma, NOS",Untraced,60
+65-69 years,Male,T2,N0,M0,30,5,0,Poorly differentiated; Grade III,6,"8070/3: Squamous cell carcinoma, NOS",Dead,23
+60-64 years,Female,T2,N0,M0,53,5,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T1,N0,M0,30,5,0,Poorly differentiated; Grade III,9,"8070/3: Squamous cell carcinoma, NOS",Dead,24
+65-69 years,Female,T1,N0,M0,30,4,0,Well differentiated; Grade I,7,"8070/3: Squamous cell carcinoma, NOS",Dead,35
+70-74 years,Female,T3,N0,M0,30,4,0,Poorly differentiated; Grade III,14,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+65-69 years,Male,T1,N0,M0,40,4,0,Moderately differentiated; Grade II,16,"8071/3: Squamous cell carcinoma, keratinizing, NOS",Untraced,53
+60-64 years,Female,T1,N0,M0,53,3,0,Moderately differentiated; Grade II,17,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+80-84 years,Female,T1,N0,M0,30,3,0,Poorly differentiated; Grade III,7,"8072/3: Squamous cell carcinoma, large cell, nonkeratinizing, NOS",Dead,2
+60-64 years,Female,T1,N0,M0,40,2,0,Moderately differentiated; Grade II,16,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+70-74 years,Female,T1,N0,M0,53,1,0,Moderately differentiated; Grade II,4,"8070/3: Squamous cell carcinoma, NOS",Alive,60
+60-64 years,Male,T1,N0,M0,52,1,0,Moderately differentiated; Grade II,10,"8070/3: Squamous cell carcinoma, NOS",Dead,50
+60-64 years,Male,T1,N0,M0,30,1,0,Moderately differentiated; Grade II,19,"8070/3: Squamous cell carcinoma, NOS",Untraced,60
